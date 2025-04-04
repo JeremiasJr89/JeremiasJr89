@@ -1,6 +1,6 @@
 
 ### Jeremias<br/>
-Desenvolvedor Android | Globoplay | Desenvolvimento de aplicativos móveis|AndroidTV| FireTv.
+Desenvolvedor Android | Globoplay | Desenvolvimento de aplicativos móveis| AndroidTV | FireTv.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremias-dos-santos-andrade-46840622b/)  
